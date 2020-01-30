@@ -1,2 +1,4 @@
 # interactive_filtering
-Interactive filtering of predicted ligands
+Interactive filtering of a ranked list of predicted ligands
+
+See: (link)[]
